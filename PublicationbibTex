@@ -1,0 +1,75 @@
+@inproceedings{sung2017exploring,
+  title={Exploring Online Learners' Interactive Dynamics by Visually Analyzing Their Time-anchored Comments},
+  author={Sung, Ching-Ying and Huang, Xun-Yi and Shen, Yicong and Cherng, Fu-Yin and Lin, Wen-Chieh and Wang, Hao-Chuan},
+  booktitle={Computer Graphics Forum},
+  volume={36},
+  number={7},
+  pages={145--155},
+  year={2017},
+  organization={Wiley Online Library}
+}
+
+@inproceedings{tang2021conceptguide,
+  title={Conceptguide: Supporting online video learning with concept map-based recommendation of learning path},
+  author={Tang, Chien-Lin and Liao, Jingxian and Wang, Hao-Chuan and Sung, Ching-Ying and Lin, Wen-Chieh},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={2757--2768},
+  year={2021}
+}
+
+@inproceedings{liao2019virtual,
+  title={Virtual classmates: Embodying historical learners' messages as learning companions in a VR classroom through comment mapping},
+  author={Liao, Meng-Yun and Sung, Ching-Ying and Wang, Hao-Chuan and Lin, Wen-Chieh},
+  booktitle={2019 IEEE conference on virtual reality and 3D user interfaces (VR)},
+  pages={163--171},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{tang2020supporting,
+  title={Supporting online video learning with concept map-based recommendation of learning path},
+  author={Tang, Chien-Lin and Liao, Jingxian and Wang, Hao-Chuan and Sung, Ching-Ying and Cao, Yu-Rong and Lin, Wen-Chieh},
+  booktitle={Extended abstracts of the 2020 CHI Conference on human factors in computing systems},
+  pages={1--8},
+  year={2020}
+}
+
+@inproceedings{sung2016topin,
+  title={ToPIN: A visual analysis tool for time-anchored comments in online educational videos},
+  author={Sung, Ching-Ying and Huang, Xun-Yi and Shen, Yicong and Cherng, Fu-Yin and Lin, Wen-Chieh and Wang, Hao-Chuan},
+  booktitle={Proceedings of the 2016 CHI conference extended abstracts on human factors in computing systems},
+  pages={2185--2191},
+  year={2016}
+}
+
+@inproceedings{sung20243cpes,
+  title={3CPEs: Concrete computational concepts programming environments for elementary computer science education},
+  author={Sung, Ching-Ying and Cherng, Fu-Yin and Chiu, Yi-Lun and Chen, Peng-Hsi and Chen, Bing-Yu},
+  booktitle={Extended abstracts of the CHI conference on human factors in computing systems},
+  pages={1--7},
+  year={2024}
+}
+
+@inproceedings{liao2019embodying,
+  title={Embodying historical learners' messages as learning companions in a VR classroom},
+  author={Liao, Meng-Yun and Sung, Ching-Ying and Wang, Hao-Chuan and Lin, Wen-Chieh and Cherng, Fu-Yin},
+  booktitle={Extended abstracts of the 2019 CHI conference on human factors in computing systems},
+  pages={1--6},
+  year={2019}
+}
+
+@inproceedings{sung2017questionization,
+  title={Questionization of peer-generated comments for supporting online video-based learning},
+  author={Sung, Ching-Ying and Wang, Hao-Chuan and Huang, Chen-Wei and Lin, Wen-Chieh},
+  booktitle={Proceedings of the Fifth International Symposium of Chinese CHI},
+  pages={11--15},
+  year={2017}
+}
+
+@inproceedings{lee2015using,
+  title={Using time-anchored peer comments to enhance social interaction in online educational videos},
+  author={Lee, Yi-Chieh and Lin, Wen-Chieh and Cherng, Fu-Yin and Wang, Hao-Chuan and Sung, Ching-Ying and King, Jung-Tai},
+  booktitle={Proceedings of the 33rd annual ACM conference on human factors in computing systems},
+  pages={689--698},
+  year={2015}
+}
